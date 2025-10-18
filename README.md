@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Who I Am 😃</h2>
+<h2 align="left">Who AM I😃</h2>
 
 ###
 
