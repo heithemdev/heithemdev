@@ -103,17 +103,20 @@
 <br clear="both">
 
 <div align="center">
-  <a href="www.linkedin.com/in/heithem-chorfi" target="_blank">
+  <a href="https://www.linkedin.com/in/heithem-chorfi" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://web.facebook.com/profile.php?id=61582341968842" target="_blank">
+  <a href="https://web.facebook.com/profile.php?id=61582341968842" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://x.com/Heithemdev" target="_blank">
+  <a href="https://x.com/Heithemdev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://wa.me/213794206655" target="_blank">
+  <a href="https://wa.me/213794206655" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:heithem.dev@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
@@ -122,7 +125,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=119&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=Always%20remember%20,%20With%20great%20Skills%20comes%20Great%20Projects%20&descSize=20&descAlign=50&descAlignY=78&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=119&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=77&stroke=-&animation=fadeIn&desc=Always%20remember%20,%20With%20great%20Skills%20comes%20Great%20Projects%20&descSize=20&descAlign=50&descAlignY=78&color=gradient"  />
 </div>
 
 ###
