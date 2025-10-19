@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&section=header&reversal=false&text=%F0%9F%91%8B%20Welcome!&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=I'm%20Heithem%20%E2%80%94%20I%20don%E2%80%99t%20just%20build%20websites,%20I%20help%20projects%20grow%20with%20scalable%20&%20secure%20web%20apps.&descSize=20&descAlign=50&descAlignY=92&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&section=header&reversal=false&text=%F0%9F%91%8B%20Welcome!&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=I'm%20Heithem%20%E2%80%94%20I%20don%E2%80%99t%20just%20build%20websites,%20I%20help%20projects%20grow%20&descSize=20&descAlign=50&descAlignY=92&color=gradient"  />
 </div>
 
 ###
@@ -103,19 +103,19 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/heithem-chorfi" target="_blank" rel="noreferrer">
+  <a href="www.linkedin.com/in/heithem-chorfi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://web.facebook.com/profile.php?id=61582341968842" target="_blank" rel="noreferrer">
+  <a href="https://web.facebook.com/profile.php?id=61582341968842" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://x.com/Heithemdev" target="_blank" rel="noreferrer">
+  <a href="https://x.com/Heithemdev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://wa.me/213794206655" target="_blank" rel="noreferrer">
+  <a href="https://wa.me/213794206655" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="mailto:heithem.dev@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:heithem.dev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
