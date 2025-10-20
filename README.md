@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">those that helps me to build websites</h3>
+<h3 align="left">those that helps me build websites</h3>
 
 ###
 
