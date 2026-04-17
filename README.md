@@ -1,128 +1,137 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=135&section=header&reversal=false&text=%F0%9F%91%8B%20Welcome!&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=I'm%20Heithem%20%E2%80%94%20I%20don%E2%80%99t%20just%20build%20websites,%20I%20help%20projects%20grow%20&descSize=20&descAlign=50&descAlignY=92&color=gradient"  />
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Heithem&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20products%20with%20business%20logic%20first&descAlignY=58&descSize=19&color=0:0B1220,50:111827,100:2563EB"
+    alt="Heithem header"
+  />
 </div>
 
-###
+<p align="center">
+  <a href="https://heithemdev.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/heithemdev">LinkedIn</a> ·
+  <a href="https://x.com/Heithemdev">X</a> ·
+  <a href="mailto:heithem.dev@gmail.com">Email</a> ·
+  <a href="https://wa.me/213794206655">WhatsApp</a>
+</p>
 
-<h2 align="left">Who Am I 😃</h2>
+<p align="center">
+  <strong>Good UI gets attention. Good product logic keeps the business moving.</strong>
+</p>
 
-###
-
-<p align="left">My name is Heithem , I'm a Software engineer that build web sites and complex web apps .<br>Not only that , but  focusing on building them in a way that helps people and business owners grow their projects</p>
-
-###
+<p align="center">
+  Software Engineering student in Béjaïa, Algeria.<br />
+  Building marketplaces, ecommerce platforms, dashboards, and AI workflows with Next.js, React, TypeScript, Prisma, PostgreSQL, and Tailwind CSS.
+</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heithemdev/heithemdev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heithemdev/heithemdev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/heithemdev/heithemdev/output/pacman-contribution-graph.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/heithemdev/heithemdev/output/pacman-contribution-graph-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/heithemdev/heithemdev/output/pacman-contribution-graph.svg"
+  >
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/heithemdev/heithemdev/output/pacman-contribution-graph.svg"
+  >
 </picture>
 
-###
+<h2>Selected direction</h2>
 
-<h2 align="left">About Me</h2>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>What shows up here</strong>
+      <br /><br />
+      • Multi-role web apps
+      <br />
+      • Ecommerce platforms
+      <br />
+      • Marketplaces
+      <br />
+      • Internal dashboards
+      <br />
+      • AI-supported workflows
+    </td>
+    <td width="50%" valign="top">
+      <strong>What matters in the build</strong>
+      <br /><br />
+      • Clean UX
+      <br />
+      • Clear product structure
+      <br />
+      • Fast frontends
+      <br />
+      • Scalable backend logic
+      <br />
+      • Code that stays readable
+    </td>
+  </tr>
+</table>
 
-###
+<h2>Selected work</h2>
 
-<p align="left">A Software Engineering student and freelance full-stack web developer.  <br>I design and build modern, secure, and scalable web apps from scratch — every line of code and every pixel of design is mine.  <br><br>🌍 I speak multiple languages (English, Arabic, and French), which helps me collaborate easily with clients worldwide.  <br>🎯 My goal is simple: to turn ideas into functional, beautiful, and growth-ready products.</p>
+<table>
+  <tr>
+    <td width="28%"><strong>Unimarket</strong></td>
+    <td>A student marketplace with real checkout, order tracking, and role-based dashboards.</td>
+  </tr>
+  <tr>
+    <td width="28%"><strong>TruckProSource</strong></td>
+    <td>A multi-role heavy truck parts platform built for cross-border discovery, trust, and scale.</td>
+  </tr>
+  <tr>
+    <td width="28%"><strong>Brionzz</strong></td>
+    <td>A conversion-focused landing page for a luxury watch brand.</td>
+  </tr>
+</table>
 
-###
+<p align="center">
+  Full case studies live at <a href="https://heithemdev.com">heithemdev.com</a>
+</p>
 
-<h2 align="left">My skills</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heithemdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h3 align="left">those that helps me build websites</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
-
-<h3 align="left">Other Skills From My studies</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" height="40" alt="thealgorithms logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<p align="left">____________________________________________________________________________________________________________________</p>
-
-###
-
-<h2 align="left">My Social Media</h2>
-
-###
-
-<h3 align="center">Let’s talk about your project</h3>
-
-###
-
-<br clear="both">
+<h2>Core stack</h2>
 
 <div align="center">
-  <a href="www.linkedin.com/in/heithemdev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Heithemdev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://wa.me/213794206655" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="mailto:heithem.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="Next.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="42" alt="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="42" alt="Prisma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="Figma" />
 </div>
 
-###
+<details>
+  <summary><strong>More background</strong></summary>
+  <br />
+  Software engineering student. Comfortable with C, Java, databases, OOP, HTML, CSS, and JavaScript foundations.
+  <br /><br />
+  Languages: Arabic, French, English, Kabyle.
+</details>
 
-<br clear="both">
+<h2>Contact</h2>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=119&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=77&stroke=-&animation=fadeIn&desc=Always%20remember%20,%20With%20great%20Skills%20comes%20Great%20Projects%20&descSize=20&descAlign=50&descAlignY=78&color=gradient"  />
+<p>
+Need a landing page with teeth, a marketplace with real structure, or an ecommerce build that carries business logic past the UI?
+<br /><br />
+Start here: <a href="https://heithemdev.com">heithemdev.com</a>
+</p>
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,50:111827,100:0B1220"
+    alt="Footer"
+  />
 </div>
-
-###
