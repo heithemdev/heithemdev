@@ -269,7 +269,7 @@
 <details>
   <summary><strong>More background</strong></summary>
   <br />
-  I am a software engineering student and full-stack web developer from Béjaïa, Algeria.
+  I am a software engineering and full-stack web developer from Béjaïa, Algeria.
   <br /><br />
   I work mainly with Next.js, React, TypeScript, Node.js, Tailwind CSS, Prisma, PostgreSQL, and Figma.
   <br /><br />
