@@ -1,69 +1,98 @@
-<!-- A personal GitHub profile, not a product brochure. -->
-<p align="center">
-  <img src="./assets/profile-cover.png" alt="Heithem Chorfi — full-stack developer in Béjaïa, Algeria" width="100%" />
+<!-- A GitHub-native profile: generated waves, live metrics, and the existing Pac-Man workflow. -->
+
+<div align="center">
+  <img
+    width="100%"
+    alt="Heithem Chorfi — Full-stack software engineer"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=170&amp;section=header&amp;text=HEITHEM%20CHORFI&amp;fontSize=47&amp;fontColor=E9F5F7&amp;fontAlignY=36&amp;desc=FULL-STACK%20SOFTWARE%20ENGINEER&amp;descSize=14&amp;descAlignY=60&amp;color=0:08111F,55:123348,100:0B7181"
+  />
+</div>
+
+<div align="center">
+
+**From the interface to the infrastructure.**
+
+I build web software with TypeScript, design the data and business logic behind it,  
+and run the services that keep it online.
+
+<sub>Software engineering student · Béjaïa, Algeria</sub>
+
+<p>
+  <a href="https://heithemdev.com"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/heithemdev/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/Heithemdev">X</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:heithem.dev@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <a href="https://heithemdev.com"><b>Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/heithemdev">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://x.com/Heithemdev">X</a> &nbsp;·&nbsp;
-  <a href="mailto:heithem.dev@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://wa.me/213794206655">WhatsApp</a>
-</p>
-
-<p align="center">
-  Software engineering student by day; building and shipping real products the rest of the time.<br />
-  I turn scattered orders, spreadsheets, and complicated workflows into systems people can actually use.
-</p>
+</div>
 
 ---
 
-### Selected work
+### The stack
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>01 / Superette Laïbi</h3>
-      <p>Supermarket e-commerce, from storefront to stock management, admin workflows, and an Android app.</p>
-      <sub><a href="https://superettelaibi.com">Live website</a> · Commerce / PWA</sub>
+    <td width="33%" valign="top">
+      <sub>01 &nbsp; / &nbsp; APPLICATION</sub>
+      <br><br>
+      <strong>Next.js · React</strong><br>
+      <code>TypeScript</code> <code>Tailwind CSS</code>
     </td>
-    <td width="50%" valign="top">
-      <h3>02 / Travel agency workspace</h3>
-      <p>Bookings, payments, refunds, expense tracking, and financial reporting — designed around how an agency operates.</p>
-      <sub>Client project · Operations / Finance</sub>
+    <td width="33%" valign="top">
+      <sub>02 &nbsp; / &nbsp; DATA &amp; BACKEND</sub>
+      <br><br>
+      <strong>Node.js · PostgreSQL</strong><br>
+      <code>Prisma</code> <code>REST APIs</code>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 / Said</h3>
-      <p>Heavy-truck-parts e-commerce with product clarity, stock visibility, and a buying experience built for mobile.</p>
-      <sub>Client project · E-commerce</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 / Waity</h3>
-      <p>Making queues less painful with a lightweight platform for businesses and the people waiting.</p>
-      <sub>In development · SaaS</sub>
+    <td width="34%" valign="top">
+      <sub>03 &nbsp; / &nbsp; OPERATIONS</sub>
+      <br><br>
+      <strong>Linux · Nginx</strong><br>
+      <code>Cloudflare</code> <code>CI/CD</code>
     </td>
   </tr>
 </table>
 
-<sub>Also built: student marketplaces, wholesale ordering flows, and smaller tools for local businesses.</sub>
+<sub>Right now: multi-tenant architecture, query performance, caching, and keeping small production systems dependable.</sub>
 
-### Things I work with
+### Code, in numbers
 
-`Next.js` &nbsp; `React` &nbsp; `TypeScript` &nbsp; `Node.js` &nbsp; `PostgreSQL` &nbsp; `Prisma` &nbsp; `Tailwind CSS` &nbsp; `Linux` &nbsp; `Cloudflare`
+<div align="center">
+  <img
+    width="630"
+    src="./assets/github-metrics.svg"
+    alt="Automatically generated terminal-style GitHub language metrics"
+  />
+  <br>
+  <sub>Generated from GitHub repository data. Private client work may not be represented.</sub>
+</div>
 
-### The commits get chased, too
+### Contributions, with a twist
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heithemdev/heithemdev/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heithemdev/heithemdev/output/pacman-contribution-graph.svg" />
-  <img alt="Pac-Man animation of my GitHub contributions" src="https://raw.githubusercontent.com/heithemdev/heithemdev/output/pacman-contribution-graph.svg" width="100%" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/heithemdev/heithemdev/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/heithemdev/heithemdev/output/pacman-contribution-graph.svg"
+  />
+  <img
+    width="100%"
+    alt="Pac-Man animated over Heithem's GitHub contribution graph"
+    src="https://raw.githubusercontent.com/heithemdev/heithemdev/output/pacman-contribution-graph.svg"
+  />
 </picture>
 
----
-
-<p align="center">
-  <b>Got a messy workflow that deserves better software?</b><br />
-  <a href="mailto:heithem.dev@gmail.com">Let's build something useful.</a>
-</p>
+<div align="center">
+  <sub>For the things I've shipped, see <a href="https://heithemdev.com">heithemdev.com</a>. For the code, you're already in the right place.</sub>
+  <img
+    width="100%"
+    alt="Decorative dark teal wave footer"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=105&amp;section=footer&amp;color=0:08111F,55:123348,100:0B7181"
+  />
+</div>
